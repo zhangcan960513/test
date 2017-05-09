@@ -11,7 +11,7 @@ public class Main {
 
     @Test
     public void test() throws Exception{
-        System.out.println(1);
+        System.out.println(2);
     }
 
 

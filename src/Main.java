@@ -1,3 +1,5 @@
+import org.junit.Test;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -5,6 +7,11 @@ public class Main {
         Integer i =  1;
 
         System.out.println(i.equals(null));
+    }
+
+    @Test
+    public void test() throws Exception{
+        System.out.println(1);
     }
 
 
